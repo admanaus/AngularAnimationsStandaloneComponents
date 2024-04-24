@@ -1,0 +1,15 @@
+mat-nav-list {
+    display: flex;
+  }
+  
+  .second-row {
+    background-color: rgb(245, 245, 245);
+  }
+  
+  .mat-list-base {
+    padding: 0px;
+  }
+  
+  .active {
+    background-color: rgb(235, 235, 235);
+  }
